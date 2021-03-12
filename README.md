@@ -47,3 +47,7 @@ The business objectives and goals of data analysis are pretty straightforward.
 The entire project is divided into checkpoints to help you navigate. For each checkpoint, you are advised to fill in the tables into the spreadsheet provided in the download segment. The tables are also mentioned under the **'Results Expected'** section after each checkpoint. <br><br>
 
 **Note:** All the code is submitted in one Jupyter notebook and detailed entry has been made in the tables within the 'Investments.xlsx' file.
+
+## Jupyter Notebook Viewer
+If for any reasons you are unable to view or load the jupyter IPython notebook via the github, please click on ![link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Investment-Analysis-for-an-Asset-Management-Company/blob/chai_main/Investment_Assignment.ipynb).
+Thank you!
