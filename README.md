@@ -49,5 +49,5 @@ The entire project is divided into checkpoints to help you navigate. For each 
 **Note:** All the code is submitted in one Jupyter notebook and detailed entry has been made in the tables within the 'Investments.xlsx' file.
 
 ## Jupyter Notebook Viewer
-If for any reasons you are unable to view or load the jupyter IPython notebook via the github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Investment-Analysis-for-an-Asset-Management-Company/blob/chai_main/Investment_Assignment.ipynb).
+If you are unable to view or load the jupyter IPython notebook via the github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Investment-Analysis-for-an-Asset-Management-Company/blob/chai_main/Investment_Assignment.ipynb).
 Thank you!
